@@ -1,4 +1,3 @@
 # AndroidBaseDemo
-整理Android基础开发知识点，写Demo和笔记
-
+阅读《Android编程权威指南》(第二版)，将读书笔记和Demo发上来。
 
